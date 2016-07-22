@@ -10,6 +10,12 @@ title: Drashot
 email: ctaymor@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of drashot (teachings or interpretations) on assorted Jewish subjects.
+  All work, unless cited to someone else, is copyright Caroline Taymor. You are free to
+  excerpt, quote, or paraphrase with attribution forthe sake of teaching Torah.
+
+  "And some say Torah studied in order to teach is a Torah of chesed, whereas
+  Torah not studied in order to teach is not a Torah of chesed."
+  - Sukkah 49b
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: carolinetaymor
