@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Caroline Taymor is a Software Engineer at Pivotal Software, and a passionate Jew. Caroline has a particular love of Talmud, tefillin, and hosting shabbos dinners. Caroline also adores doing hagbah. Caroline has been known to host 16 person seders in 1 bedroom apartments, and take vacations from pair programming to pair study (chevruta study) at Svara's Queer Talmud Camp beit midrash. If you want to talk Torah, Caroline is always interested in talking.
