@@ -18,8 +18,8 @@ description: > # this means to ignore newlines until "baseurl:"
   - Sukkah 49b
 baseurl: "/drashot_blog" # the subpath of your site, e.g. /blog
 # url: "https://" # the base hostname & protocol for your site
-# twitter_username: carolinetaymor
-# github_username:  ctaymor
+twitter_username: carolinetaymor
+github_username:  ctaymor
 
 # Build settings
 markdown: kramdown
