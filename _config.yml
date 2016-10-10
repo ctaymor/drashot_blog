@@ -23,3 +23,4 @@ github_username:  ctaymor
 
 # Build settings
 markdown: kramdown
+timezone: america/los_angeles
