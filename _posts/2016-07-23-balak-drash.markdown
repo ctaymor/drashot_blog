@@ -2,7 +2,13 @@
 layout: post
 title:  "Balak"
 date:  2016-07-23
-categories: parsha 
+categories:
+  - parsha 
+  - drash
+tags:
+  - Balak
+  - parsha
+  - 5776
 ---
 
 Parsha Balak - Delivered 17 Tammuz 5776/July 23, 2016 at Congregation Netivot Shalom, in Berkeley, California

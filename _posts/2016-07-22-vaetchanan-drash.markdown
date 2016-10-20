@@ -2,7 +2,13 @@
 layout: post
 title:  "Va'etchanan"
 date:  2016-07-22
-categories: parsha 
+categories:
+  - parsha 
+  - drash
+tags:
+  - Va'etchanan
+  - 5774
+  - parsha
 ---
 
 Parsha Va'etchanan - Delivered 13 Av 5774/August 9, 2014 at Congregation Netivot Shalom, in Berkeley, California

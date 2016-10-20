@@ -2,8 +2,15 @@
 layout: post
 title:  "Ki Tetzei"
 date:  2016-09-17
-categories: parsha 
+categories:
+  - parsha
+  - drash
+tags:
+  - 5776
+  - parsha
+  - Ki Tetzei
 ---
+Parsha Ki Tetzei - Delivered 14 Elul, 5776/September 17, 2016 at Congregation Netivot Shalom, in Berkeley, California
 
 __In honor of my teacher, Rabbi Benay Lappe, and my chevruta, Sarah Schreiber, with whom I learned about the בן סורר ומםרה__
 
@@ -47,6 +54,8 @@ Torah is fundamentally a moral document, even as we grow over generations in our
 Shabbat shalom.
 
 --------
+
 [1] Thanks to Rabbi Reuben Zellman and Rabbi Eliot Kukla who pointed me to Rashi’s commentary on this verse.
+
 
 [2] Thanks to Eli Rarey, who helped me understand the voice of the stama here.
