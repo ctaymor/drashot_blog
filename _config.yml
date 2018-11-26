@@ -25,3 +25,4 @@ github_username:  ctaymor
 markdown: kramdown
 timezone: america/los_angeles
 repository: ctaymor/drashot_blog
+github: [metadata]
