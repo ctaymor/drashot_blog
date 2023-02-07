@@ -19,32 +19,39 @@ There are three different forms of education in our parsha, and they can each in
 
 The first is modeling Jewishness and responding to children’s questions. Twice, HaShem instructs Moshe in how the people should respond to their children’s questions about rituals they see their parents do. 
 
-וְהָיָ֕ה כִּֽי־יֹאמְר֥וּ אֲלֵיכֶ֖ם בְּנֵיכֶ֑ם מָ֛ה הָעֲבֹדָ֥ה הַזֹּ֖את לָכֶֽם
-“And it will be that your children will say to you, 
+>וְהָיָ֕ה כִּֽי־יֹאמְר֥וּ אֲלֵיכֶ֖ם בְּנֵיכֶ֑ם מָ֛ה הָעֲבֹדָ֥ה הַזֹּ֖את לָכֶֽם
+{: .hebrew }
+>“And it will be that your children will say to you, <span class="hebrew">
 מָ֛ה הָעֲבֹדָ֥ה הַזֹּ֖את לָכֶֽם
-‘What is this avodah, service/worship for you?”
- You shall say “It is a pesach זבח, feast offering, to HaShem, who passed over the Houses of Bnei Yisrael in Mitzrayim, Egypt, when HaShem smote the Egyptians, but HaShem saved our households.
+</span>‘What is this avodah, service/worship, for you?”
+ You shall say “It is a pesach
+<span class="hebrew"> זבח, </span>feast offering, to HaShem, who passed over the Houses of Bnei Yisrael in Mitzrayim, Egypt, when HaShem smote the Egyptians, but HaShem saved our households.
 
-וְהָיָ֞ה כִּֽי־יִשְׁאָלְךָ֥ בִנְךָ֛ מָחָ֖ר לֵאמֹ֣ר מַה־זֹּ֑את וְאָמַרְתָּ֣ אֵלָ֔יו בְּחֹ֣זֶק יָ֗ד הוֹצִיאָ֧נוּ הי מִמִּצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃
-And when, in time to come, a child of yours asks you, saying, מַה־זֹּ֑את ‘What is this[refering to redeeming the firstborn son and firstborn livestock]?’ you shall reply, ‘It was with a mighty hand that הי brought us out from Egypt, the house of bondage.
+><span class="hebrew">
+וְהָיָ֞ה כִּֽי־יִשְׁאָלְךָ֥ בִנְךָ֛ מָחָ֖ר לֵאמֹ֣ר מַה־זֹּ֑את וְאָמַרְתָּ֣ אֵלָ֔יו בְּחֹ֣זֶק יָ֗ד הוֹצִיאָ֧נוּ הי מִמִּצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃ </span>
+>And when, in time to come, a child of yours asks you, saying,<span class="hebrew"> מַה־זֹּ֑את </span>‘What is this[refering to redeeming the firstborn son and firstborn livestock]?’ you shall reply, ‘It was with a mighty hand that<span class="hebrew"> הי </span>brought us out from Egypt, the house of bondage.
 
-HaShem instructs the people on what they should say when their children observe their Avodah, and say “Ima, Papa, what is this you’re doing? What’s this all about?”
+HaShem instructs the people on what they should say when their children observe their Avodah and ask “Ima, Papa, what is this you’re doing? What’s this all about?”
 
 In order to wonder this, our children must first see our example of avodah.
 
 The second form of teaching is just what we might, most traditionally, think of as “teaching”. 
 This is sitting down to instruct your child about something you think is important for them to know. This is formal education, school.
 
-הִגַּדְתָּ֣ לְבִנְךָ֔ בַּיּ֥וֹם הַה֖וּא לֵאמֹ֑ר בַּעֲב֣וּר זֶ֗ה עָשָׂ֤ה הי לִ֔י בְּצֵאתִ֖י מִמִּצְרָֽיִם
-“And you shall explain to your child on that day[the 7 days of eating unleavened bread], ‘It is because of what הי did for me when I went free from Egypt.’”
+><span class="hebrew">
+הִגַּדְתָּ֣ לְבִנְךָ֔ בַּיּ֥וֹם הַה֖וּא לֵאמֹ֑ר בַּעֲב֣וּר זֶ֗ה עָשָׂ֤ה הי לִ֔י בְּצֵאתִ֖י מִמִּצְרָֽיִם</span>
+
+>“And you shall explain to your child on that day [the 7 days of eating unleavened bread], ‘It is because of what הי did for me when I went free from Egypt.’”
 
 
 And finally, the third form in our parsha, is storytelling.
 
-Introducing the plague of the locusts, ארבה, HaShem tells Moshe that HaShem will harden the hearts of Pharoh and his servants, so HaShem can make these signs…
+Introducing the plague of the locusts,<span class="hebrew"> ארבה</span>, HaShem tells Moshe that HaShem will harden the hearts of Pharoh and his servants, so HaShem can make these signs…
 
-וּלְמַ֡עַן תְּסַפֵּר֩ בְּאׇזְנֵ֨י בִנְךָ֜ וּבֶן־בִּנְךָ֗ אֵ֣ת אֲשֶׁ֤ר הִתְעַלַּ֙לְתִּי֙ בְּמִצְרַ֔יִם וְאֶת־אֹתֹתַ֖י אֲשֶׁר־שַׂ֣מְתִּי בָ֑ם וִֽידַעְתֶּ֖ם כִּי־אֲנִ֥י הי
-״and that you may recount in the hearing of your child and of your child’s child how I made a mockery of the Egyptians and how I displayed My signs among them—in order that you may know that I am הי.”
+><span class="hebrew">
+וּלְמַ֡עַן תְּסַפֵּר֩ בְּאׇזְנֵ֨י בִנְךָ֜ וּבֶן־בִּנְךָ֗ אֵ֣ת אֲשֶׁ֤ר הִתְעַלַּ֙לְתִּי֙ בְּמִצְרַ֔יִם וְאֶת־אֹתֹתַ֖י אֲשֶׁר־שַׂ֣מְתִּי בָ֑ם וִֽידַעְתֶּ֖ם כִּי־אֲנִ֥י הי</span>
+
+>and that you may recount in the hearing of your child and of your child’s child how I made a mockery of the Egyptians and how I displayed My signs among them—in order that you may know that I am<span class="hebrew"> הי</span>.
 
 We teach our children by telling our life stories.
 
@@ -54,18 +61,19 @@ The mitzvah of educating our children belongs to parents. However, it is also a 
 
 
 Maimonides, in the Mishnah Torah, says:
-Teachers of small children should be appointed in each and every land, in each and every region, and in each and every village.
+>Teachers of small children should be appointed in each and every land, in each and every region, and in each and every village.
 If a village does not have children who study Torah, its populace is placed under a ban of ostracism until they employ teachers for the children. If they do not employ teachers, the village [deserves to be] destroyed, since the world exists only by virtue of the breath coming from the mouths of children who study Torah.
 
 
 He also writes:
-This obligation [to teach your child Torah] does not refer only to one's child and grandchild, but it is a duty resting upon every Jewish scholar to teach all those who seek to be their student, even though they are not that scholar's own children, for it says, "And you shall teach them diligently to your children" (Deut 6:7). On traditional authority, the term "your children" in this verse has been interpreted to mean that your pupils are likewise called children.
+>This obligation [to teach your child Torah] does not refer only to one's child and grandchild, but it is a duty resting upon every Jewish scholar to teach all those who seek to be their student, even though they are not that scholar's own children, for it says, "And you shall teach them diligently to your children" (Deut 6:7). On traditional authority, the term "your children" in this verse has been interpreted to mean that your pupils are likewise called children.
 
 How many of us might be a Jewish scholar in one realm or another? We have so many learned and skilled people in our congregation.
 
 The Rema (Choshen Mishpat 163:3) rules:
-In a place in which the residents of a city establish among them a teacher, and the fathers of [all] the children cannot afford tuition, and the community will have to pay, the tax is levied based on financial means.
+>In a place in which the residents of a city establish among them a teacher, and the fathers of [all] the children cannot afford tuition, and the community will have to pay, the tax is levied based on financial means.
 A tax, not a voluntary donation.
+
 Before I was a parent, I didn’t think that youth education at Netivot was my concern or someplace I was welcome. Not conversations around it, nor in helping fund our youth education program. However, I’ve come to realize that I was wrong. The education of our youth is an obligation on all of us as a community.
 
 How can you ensure the Jewish future by providing for the Jewish education of children?
