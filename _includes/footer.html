@@ -25,6 +25,12 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.mastadon_username %}
+          <li>
+            {% include icon-mastadon.html username=site.mastadon_username server=site.mastadon_server %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
