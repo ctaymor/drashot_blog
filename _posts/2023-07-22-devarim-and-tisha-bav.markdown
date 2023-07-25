@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Devarim"
-date:  2023-01-28
+date:  2023-07-22
 categories:
   - parsha
   - drash
